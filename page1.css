@@ -1,0 +1,31 @@
+.header
+{
+       padding: 50px;
+       text-align: center;
+       background:rgb(0, 145, 255);
+       color: rgb(1, 1, 1);
+       font-size: 20px;
+}
+.topleft {
+   padding: left 1px;
+   padding-top: 1px;
+  
+ }
+.img{
+   padding :60px;
+}
+.footer
+{
+       padding: 30px;
+       text-align:left;
+       background:orange;
+       color: rgb(1, 1, 1);
+       font-size: small;
+     
+}
+.imageColumn {
+       float: left;
+       width: 15%;
+       padding: 0px;
+      
+}
