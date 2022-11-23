@@ -1,0 +1,11 @@
+.search
+{
+border-radius:10px;
+border: aquamarine;
+}
+.textColumn {
+   float: left;
+   width: 50%;
+   padding: 10px;
+  
+}
